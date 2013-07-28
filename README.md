@@ -23,4 +23,4 @@ Laboratorio Audiovisual de Investigación Social. “La Fototeca Digital y el Si
 
 Green, Andrew Russell. “Cambios actuales en el esquema de supuestos básicos de las prácticas catalográficas.” In _Aldea Global_ no. 1 (formerly _Metadata_), 2003. **[text](http://andrewgreen.github.io/papersandtalks/green_cambios_actuales_2003.pdf)**
 
-(Files are the gh-pages branch of the repository.)
+(Files are in the gh-pages branch of the repository.)
